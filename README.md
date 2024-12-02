@@ -3,8 +3,11 @@
 
 ### DAY ONE ###
 
+Easy one, just increment value on \( and decrement it on \) counting where it lands on. Second problem not really harder, just add `if floor == -1: print(i+1)` and we get the answer.
+
 ### DAY TWO ###
 
+Another easy day, just a bit of math on lines. Calculating area and length. Not much to see here, move along, citizen!
 ### DAY THREE ###
 
 ### DAY FOUR ###
