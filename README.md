@@ -10,6 +10,7 @@ Easy one, just increment value on \( and decrement it on \) counting where it la
 Another easy day, just a bit of math on lines. Calculating area and length. Not much to see here, move along, citizen!
 ### DAY THREE ###
 
+That one was a tad harder but second problem required just a slight modification of the code from the first one so it wasn't ultimately that hard. Just some ifs and math.
 ### DAY FOUR ###
 
 ### DAY FIVE ###
