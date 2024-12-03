@@ -31,9 +31,11 @@ And they say seven is lucky... Heh. This one took me by surprise and I must admi
 
 ### DAY EIGHT ###
 
-
+Huh... and back to simple ones? At least in python it's just a handful of lines to get it all done. Not much to see here, move along.
 
 ### DAY NINE ###
+
+
 
 ### DAY TEN ###
 

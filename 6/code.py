@@ -17,7 +17,7 @@ def parse_instruction(line):
 def apply_instruction(action, x1, y1, x2, y2):
     for x in range(x1, x2 + 1):
         for y in range(y1, y2 + 1):
-            # Part 1 logic
+
             if action == "turn on":
                 grid_part1[(x, y)] = 1
                 grid_part2[(x, y)] = grid_part2.get((x, y), 0) + 1
