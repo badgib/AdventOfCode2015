@@ -16,6 +16,7 @@ That one was a tad harder but second problem required just a slight modification
 This one required less code but more time because it had to calculate MD5 hashes. Second problem was just a longer calculation, requiring almost no changes to code.
 ### DAY FIVE ###
 
+This day was kinda stupid... or I am ;) Anywho my math was apparently wrong and only after googling and converting JS answer to python I got the answer I was missing \(my was one less than it was supposed, go figure\).
 ### DAY SIX ###
 
 ### DAY SEVEN ###
