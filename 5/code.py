@@ -1,15 +1,10 @@
 import os
 import re
 
-
-here = os.path.dirname(os.path.abspath(__file__))
-filename = os.path.join(here, "input.txt")
-
-with open(filename) as file:
-    lines = file.readlines()
+with open(os.path.join(os.path.dirname(__file__), 'input.txt'), 'r') as file:
+    lines = file.readlines() 
 
 nicelines = 0
-
 
 for line in lines:
     line = line.strip()
