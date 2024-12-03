@@ -24,9 +24,14 @@ This day was kinda stupid... or I am ;) Anywho my math was apparently wrong and 
 ### DAY SIX ###
 
 Day six sux. Or rather - my implementation did. After a rewrite it's now way faster and sane too. Doing it with a list of points is terribly inefficient. Second problem was pretty much as simple as first one, just needed a bit more math in there.
+
 ### DAY SEVEN ###
 
+And they say seven is lucky... Heh. This one took me by surprise and I must admit, I had to look around for answers but it was a fun excersize nonetheless. Because of all the possible branching it required some creative solutions. Second part was tricky but ultimately not too hard, all things considered.
+
 ### DAY EIGHT ###
+
+
 
 ### DAY NINE ###
 
