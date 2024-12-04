@@ -35,7 +35,7 @@ Huh... and back to simple ones? At least in python it's just a handful of lines 
 
 ### DAY NINE ###
 
-
+Part one was again regex-heavy with some simple workarounds and such, nothing to write home about. Second one just needed more iterations, no changes in code.
 
 ### DAY TEN ###
 
